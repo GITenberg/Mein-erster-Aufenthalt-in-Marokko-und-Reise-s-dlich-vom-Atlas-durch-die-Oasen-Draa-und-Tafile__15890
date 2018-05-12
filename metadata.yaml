@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5383
     wikipedia: http://de.wikipedia.org/wiki/Gerhard_Rohlfs_%28Afrikaforscher%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15890#Mein-erster-Aufenthalt-in-Marokko-und-Reise-s-dlich-vom-Atlas-durch-die-Oasen-Draa-und-Tafile_
 gutenberg_bookshelf:
 - Africa
 - DE Sachbuch
